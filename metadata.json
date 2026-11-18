@@ -1,0 +1,6 @@
+{
+  "name": "Ecossistema Cerutti - Apresentação Comercial Viva",
+  "description": "Apresentação interativa e dinâmica do ecossistema de soluções de vendas: Agente Cerutti, Programa Campeão em Vendas, Plataforma EAD e Mentoria Individual em um organismo vivo manipulável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
